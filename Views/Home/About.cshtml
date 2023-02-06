@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = "Om";
+}
+<div class="content">
+    <h2>@ViewBag.Header</h2>
+
+    @model List<Coding.Models.CodeModel>
+    @{
+
+    }
+
+    <div class="content">
+
+        @foreach (var code in Model)
+        {
+            <div class="blog-preview">
+                <h2>@code.Name</h2>
+                <p>@code.Descrip</p>
+                @if (@code.Where == "F")
+                {
+                    <p>Frontend</p>
+                }
+                else if (@code.Where == "B")
+                {
+                    <p>Backend</p>
+                }
+                else
+                {
+                    <p>Övrigt</p>
+                }
+
+                @if (@code.Accepted == true)
+                {
+                    <p>Godkänd på kursen</p>
+                }
+                else
+                {
+                    <p>Inte godkänd på kursen</p>
+                }
+            </div>
+        }
+
+    </div>
+</div>

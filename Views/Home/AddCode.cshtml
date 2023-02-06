@@ -1,0 +1,38 @@
+@model Coding.Models.CodeModel
+@{
+    ViewData["Title"] = "Lägg till kod";
+}
+
+<div class="content">
+    <h2>@ViewBag.Header</h2>
+
+    <!-- gör formulär mha tag helpers. postanrop går till samma metod. validation för name o descrip-->
+    <form method="post">
+
+        <label asp-for="Name"></label><br>
+        <input asp-for="Name">
+        <br>
+        <span asp-validation-for="Name"></span>
+
+        <br>
+        <label asp-for="Descrip"></label><br>
+        <input asp-for="Descrip">
+        <br>
+        <span asp-validation-for="Descrip"></span>
+        <br>
+        <label><input asp-for="Where" value="F" type="radio" />Frontend</label><br>
+        <label><input asp-for="Where" value="B" type="radio" />Backend</label><br>
+        <label><input asp-for="Where" value="U" type="radio" />Övrigt</label><br><br>
+
+        <label asp-for="Accepted"></label><br>
+        <input asp-for="Accepted" />
+        <br>
+
+        <br>
+        <input type="submit" value="Lägg till en ny kod">
+
+
+
+
+    </form>
+</div>

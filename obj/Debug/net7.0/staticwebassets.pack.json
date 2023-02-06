@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/christinejohanson/Code/Coding/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Coding.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Coding.props",
+      "PackagePath": "build\\Coding.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Coding.props",
+      "PackagePath": "buildMultiTargeting\\Coding.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Coding.props",
+      "PackagePath": "buildTransitive\\Coding.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

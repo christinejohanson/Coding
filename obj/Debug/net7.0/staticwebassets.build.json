@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "OHRW/dSVIiZvy6mZHrDUel4IHtXUXWnnqi7/g2jkf/U=",
+  "Source": "Coding",
+  "BasePath": "_content/Coding",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Coding/wwwroot",
+      "Source": "Coding",
+      "ContentRoot": "/Users/christinejohanson/Code/Coding/wwwroot/",
+      "BasePath": "_content/Coding",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/christinejohanson/Code/Coding/wwwroot/css/main.css",
+      "SourceId": "Coding",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/christinejohanson/Code/Coding/wwwroot/",
+      "BasePath": "_content/Coding",
+      "RelativePath": "css/main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/main.css"
+    }
+  ]
+}

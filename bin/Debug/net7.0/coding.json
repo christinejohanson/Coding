@@ -1,0 +1,140 @@
+[
+  {
+    "Name": "JavaScript",
+    "Descrip": "Ett programmeringsspråk",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "Java",
+    "Descrip": "Ett spel",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "JavaSct",
+    "Descrip": "Ännu ett",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "Script",
+    "Descrip": "Grammeringsspråk",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "affärsplaner",
+    "Descrip": "starta bolag",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "C#",
+    "Descrip": "Används lite överallt",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "test",
+    "Descrip": "med tag helpers",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "csharp",
+    "Descrip": "test med checkbox",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "webbutv",
+    "Descrip": "utan att klicka i box",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "te",
+    "Descrip": "test med checkbox",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "te",
+    "Descrip": "test med checkbox",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "csharp",
+    "Descrip": "testar utan checkbox",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "csharp",
+    "Descrip": "testar utan checkbox",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "csharp",
+    "Descrip": "testar utan checkbox",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "chhhhh",
+    "Descrip": "testar utan checkbox",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "chhhhh",
+    "Descrip": "testar utan checkbox",
+    "Where": null,
+    "Accepted": false
+  },
+  {
+    "Name": "webbutv",
+    "Descrip": "testar med checkbox",
+    "Where": null,
+    "Accepted": true
+  },
+  {
+    "Name": "csharp",
+    "Descrip": "med radioknappar",
+    "Where": "M",
+    "Accepted": true
+  },
+  {
+    "Name": "csharp",
+    "Descrip": "med radioknappar",
+    "Where": "M",
+    "Accepted": true
+  },
+  {
+    "Name": "csharp",
+    "Descrip": "med radioknappar",
+    "Where": "M",
+    "Accepted": true
+  },
+  {
+    "Name": "csharp",
+    "Descrip": "med radioknappar",
+    "Where": "M",
+    "Accepted": true
+  },
+  {
+    "Name": "csharp",
+    "Descrip": "nånting då",
+    "Where": "F",
+    "Accepted": true
+  },
+  {
+    "Name": "html",
+    "Descrip": "språk",
+    "Where": "F",
+    "Accepted": true
+  }
+]

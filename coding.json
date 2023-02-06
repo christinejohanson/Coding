@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "HTML",
+    "Descrip": "Sidbeskrivningsspråk",
+    "Where": "F",
+    "Accepted": true
+  },
+  {
+    "Name": "CSS",
+    "Descrip": "Stillmallar",
+    "Where": "F",
+    "Accepted": true
+  },
+  {
+    "Name": "Vue",
+    "Descrip": "JavaScript-ramverk",
+    "Where": "F",
+    "Accepted": true
+  },
+  {
+    "Name": "Angular",
+    "Descrip": "JavaScript-ramverk",
+    "Where": "F",
+    "Accepted": true
+  },
+  {
+    "Name": "PHP",
+    "Descrip": "Skriptspråk för serverbaserad webbutveckling",
+    "Where": "B",
+    "Accepted": true
+  },
+  {
+    "Name": "Laravel",
+    "Descrip": "PHP-ramverk",
+    "Where": "F",
+    "Accepted": true
+  },
+  {
+    "Name": "Bootstrap",
+    "Descrip": "Ramverk för CSS",
+    "Where": "F",
+    "Accepted": true
+  },
+  {
+    "Name": "Node.JS",
+    "Descrip": "Ramverk för JavaScript",
+    "Where": "B",
+    "Accepted": true
+  },
+  {
+    "Name": "Express.JS",
+    "Descrip": "Ramverk för JavaScript",
+    "Where": "B",
+    "Accepted": true
+  },
+  {
+    "Name": "JavaScript",
+    "Descrip": "skriptspråk",
+    "Where": "U",
+    "Accepted": true
+  }
+]

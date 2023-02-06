@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+    <title>@ViewData["Title"] | ASP.NET Core MVC</title>
+</head>
+
+<body>
+    <nav class="navbar">
+        <h1>ASP.NET Core MVC</h1>
+
+        <div class="links">
+            <a asp-controller="Home" asp-action="Index">Startsidan</a>
+            <a asp-controller="Home" asp-action="About">Om</a>
+            <a asp-controller="Home" asp-action="AddCode">Lägg till kod</a>
+            <a asp-controller="Home" asp-action="Today">Dagens</a>
+
+        </div>
+    </nav>
+    <div class="content">
+        <main>
+            <!-- dynamiskt innehåll -->
+            @RenderBody()
+        </main>
+
+        <footer>
+            <p>Christine Johanson chjo2104</p>
+        </footer>
+    </div>
+</body>
+
+</html>
